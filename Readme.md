@@ -1,6 +1,6 @@
-## 🧮 Tabada 🧮
+## 🧮 Tabuada 🧮
 
-- Descrição:
+🔰 Descrição:
 Neste exercício foi elaborado com CSS, HTML e JS, a apresentação de uma tabuada
 pedida pelo usuário.
 
